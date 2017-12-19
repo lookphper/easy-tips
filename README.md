@@ -285,6 +285,10 @@ count值为：1
 
 翻译文件认领申请：<https://github.com/TIGERB/easy-tips/issues/36>
 
+## 赞赏
+
+<img src="money-qrcode.jpg" width="300px">
+
 ## 感谢
 
 感谢以下朋友的issue或pull request：
@@ -302,3 +306,4 @@ count值为：1
 - @[CmderQ](https://github.com/CmderQ)
 - @[neetdai](https://github.com/neetdai)
 - @[yangqiphp](https://github.com/yangqiphp)
+- @[akmumu](https://github.com/akmumu)
